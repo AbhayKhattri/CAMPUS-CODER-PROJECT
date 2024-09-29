@@ -20,5 +20,6 @@ As the output predictions are generated and data is graphically represented usin
 
 ## Project file:
 Name of the file : Anomaly Detection.ipynb
+
 check this out in this repository named Machine_Learning_Project
 
